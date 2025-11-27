@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Tecnologias e Ferramentas que uso:
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,typescript,java,python,postgresql,docker,aws,flutter,dart,git,postman,c#" height="40">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,typescript,java,python,postgresql,docker,aws,flutter,git,postman,c#" height="40">
 </div>
 
 ---
