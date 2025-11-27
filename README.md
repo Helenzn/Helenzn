@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Tecnologias e Ferramentas que uso:
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,java,python,postgresql,docker,aws,flutter,dart,git,postman" height="40">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,typescript,java,python,postgresql,docker,aws,flutter,dart,git,postman,c#" height="40">
 </div>
 
 ---
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Redes Sociais:
 <div> 
   <a href = "mailto:helenzn21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/helen-zanco-neis-66a098260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/helen-zanco-neis-66a098260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
